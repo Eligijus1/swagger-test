@@ -1,4 +1,4 @@
-win_composer_require.bat@echo off
+@echo off
 
 call win_variables.bat
 
