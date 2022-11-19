@@ -1,6 +1,6 @@
 @echo off
 
-call win_variables.bat
+call variables.bat
 
 cd %projectRoot%
 
