@@ -1,4 +1,2 @@
 /.idea/*
-/vendor/
-/Data/
-config.php
+/src/vendor/
