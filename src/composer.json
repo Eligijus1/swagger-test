@@ -13,6 +13,7 @@
         "symfony/flex": "^2",
         "symfony/framework-bundle": "6.1.*",
         "symfony/runtime": "6.1.*",
+        "symfony/webapp-pack": "^1.1",
         "symfony/yaml": "6.1.*",
         "zircote/swagger-php": "^4.5"
     },
