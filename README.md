@@ -4,6 +4,8 @@ Swagger (OpenAPI) testing
 1. Installing Swagger Generator Tool:
 
 composer require zircote/swagger-php
+or
+composer_zircote_swagger_php_require.bat
 
 2. Add OpenAPI Annotations or Create the File By Hand:
 
