@@ -31,3 +31,23 @@ win_generate_swagger_config.bat
 
 4. ?
 5. ?
+
+
+http://localhost:8001/api/doc
+
+
+api-platform/core  instructions:
+
+* Your API is almost ready:
+    1. Create your first API resource in src/ApiResource;
+    2. Go to /api to browse your API
+
+* To enable the GraphQL support, run composer require webonyx/graphql-php,
+  then browse /api/graphql.
+
+* Read the documentation at https://api-platform.com/docs
+
+No security vulnerability advisories found
+
+http://localhost:8001/api
+http://localhost:8001/api/graphql

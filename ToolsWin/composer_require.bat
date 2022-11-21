@@ -14,4 +14,6 @@ REM php %composerLocation% require webapp
 REM php %composerLocation% require zircote/swagger-php
 REM php %composerLocation% require nelmio/api-doc-bundle
 
+php %composerLocation% require api
+
 pause
