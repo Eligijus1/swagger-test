@@ -1,4 +1,4 @@
 api_platform:
-    resource: .
+    resource: '../api_platform/resources.yaml'
     type: api_platform
     prefix: /api

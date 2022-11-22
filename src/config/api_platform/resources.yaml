@@ -1,0 +1,8 @@
+App\Dto\Book:
+    operations:
+        ApiPlatform\Metadata\Get: ~
+        post_publication:
+            class: ApiPlatform\Metadata\Post
+            method: POST
+            uriTemplate: /books/{id}/publication
+            controller: App\Controller\CreateBookPublication
